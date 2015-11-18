@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1">
+
+<TextView
+    android:id="@+id/textView_header2_location_manager"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:layout_weight="0.02"
+    android:text="Location Manager" />
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_weight="0.07">
+
+    <TextView
+        android:id="@+id/textView_lat_location_manager"
+        android:layout_width="49dp"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Lat" />
+
+    <TextView
+        android:id="@+id/edittext_lat_location_manager"
+        android:layout_width="149dp"
+        android:layout_height="match_parent"
+        android:text="Null" />
+
+    <TextView
+        android:id="@+id/textView_lon_location_manager"
+        android:layout_width="51dp"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Lon"/>
+
+    <TextView
+        android:id="@+id/edittext_lon_location_manager"
+        android:layout_width="109dp"
+        android:layout_height="match_parent"
+        android:text="Null" />
+
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_weight="0.06">
+
+    <TextView
+        android:id="@+id/textView_speed_location_manager"
+        android:layout_width="52dp"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Spd" />
+
+    <TextView
+        android:id="@+id/edittext_speed_location_manager"
+        android:layout_width="144dp"
+        android:layout_height="match_parent"
+        android:text="Null" />
+
+    <TextView
+        android:id="@+id/textView_accuracy_location_manager"
+        android:layout_width="62dp"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Acc"/>
+
+    <TextView
+        android:id="@+id/show_accuracy_location_manager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="Null" />
+</LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.06">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Provider"
+            android:id="@+id/textView_provider_manager" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Null"
+            android:id="@+id/show_provider_manager"
+            android:layout_marginLeft="30dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.06"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/textview_gpsStaus_location_manager"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="GPS Status:"
+            android:layout_weight="0.77" />
+
+        <TextView
+            android:id="@+id/show_GPSstatus_location_manager"
+            android:layout_width="103dp"
+            android:layout_height="match_parent"
+            android:text="Null"/>
+
+        <TextView
+            android:id="@+id/textview_networkStaus_location_manager"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="NetWork Status:"
+            android:layout_weight="0.77" />
+
+        <TextView
+            android:id="@+id/show_networkstatus_location_manager"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="Null"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:weightSum="1">
+
+        <ToggleButton
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textOff="Enable\nGPS"
+            android:textOn="GPS\nEnabled"
+            android:id="@+id/btn_gps_manager"
+            android:checked="false"
+            android:layout_weight="0.24" />
+
+        <ToggleButton
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textOff="Enable\nNetwork"
+            android:textOn="Network\nEnabled"
+            android:id="@+id/btn_network_manager"
+            android:checked="false"
+            android:layout_weight="0.20" />
+
+        <ToggleButton
+            android:id="@+id/btn_manager_switcher"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textOn="Stop"
+            android:textOff="Start"
+            android:layout_marginLeft="50dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

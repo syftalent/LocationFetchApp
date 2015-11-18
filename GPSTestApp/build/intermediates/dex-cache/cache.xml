@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yifeishen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-9a6abd41db3e5a4182065d78b0ddf53dce48dcdf.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-ab49a5b235986d7287ee023821a43985455170fe.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-0bde059630eb07b1a7affde554393b7ddf5c8e51.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-14514294ce8cf76777dcae8671203414b50cfac8.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-34237a493131e732daf21def5e5b4dec7ce9f5b0.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-42c9a0682a4dc627d74f9cea8e8e86d7ab126fe4.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-67c7489207edaf39ac1856bf6f270dda0e4f7614.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-d0aa80646f29f48a63c87ce3de6fd126acf52f41.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-b0b5b0f1588364b5d4ce981bf619897ffebee2f5.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-aa1b9cd2e97592ef21d007bc535809fd6d1cb50b.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-bd4c99186f2293702628d983246ffb055cefa4c8.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-fe68cca2c311e9489f9eb68c50cc3f0e1ee640dd.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-07de5bd4848e42563ed31330e18b7c1868e3de6b.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-2bb9e604aa55c0069ff187c94325d7e1aeeedf42.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-362ecb605ab3212c83a4419a756e8318a1871501.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-711bae2e03eae53c3ce56d87ace43449d34c8554.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-d59fa2f0f906de86374ff0a1196643400d262ff5.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-edfed86fba70b3c8b800ef65e3e2f41e9e161e7d.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-012e603d2daefd9823d9888f7a34f88c7d7e66e5.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-dc594e95c29f17547eaba27ae07557ae89fda052.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-c0d9ecb8a17c21b82714beae98ffb181d617f0b7.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-47026809435566b1015258d2fd1124031d2e81c1.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-e81ca5a2e48016bbb18c6be63161ddbf3b46d341.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-77c04332c77a136b5ea9d6b6a995baea4cd9e86e.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-16026de574eac60232a159e079757ebed6e84aa3.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-0e1af03df2e55918cd9e9ea77a6a46cc8f71798e.jar" />
+    </item>
+    <item
+        jar="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/yifeishen/development/PlayServicesAndLocationManagerTestApp/GPSTestApp/app/build/intermediates/pre-dexed/debug/classes-45c59b357a220ced313f51baf1fb42e9c7f78b01.jar" />
+    </item>
+
+</items>
